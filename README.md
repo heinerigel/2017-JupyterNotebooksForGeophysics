@@ -27,6 +27,19 @@ tbd
 * Simple homogenization examples
 * Elastic code in 2D
 * Simple rupture problems in 1D or 2D
-* Tompgraphic inversion using linear algebra
+* Tomographic inversion using linear algebra
 
- 
+## Specific suggestions
+
+* Analysis of the 2004 Sumatra-Andaman earthquake
+Part 1: Instrument response and spectral analysis (based on C. Tape matlab scripsts), involves conversion to ObsPy
+Part 2: Analyzing the effects of rupture complexity and Earth heterogeneity
+* Probabilistic earthquake source location inversion based on existing matlab scripts
+* Review, update, understanding if existing notebook on homogenization by S. Singh, Y. Capdeville
+* A simple 2D staggered grid elastic code based on a Fortran implementation
+* Simplest tomographic inversion using linear algebra (Matlab codes exist)
+
+
+
+
+
