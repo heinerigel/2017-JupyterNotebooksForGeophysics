@@ -15,7 +15,7 @@ tbd
 
 | Date  |   Topic |  Presenters |   Misc |  
 |---|---|---|---|
-| Oct |  GitHub |  T. Megies | Introduction, Applications |
+| Oct  18, 10:15 C107|  GitHub |  T. Megies | Introduction, Applications |
 
 
 
