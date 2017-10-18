@@ -39,7 +39,8 @@ Part 2: Analyzing the effects of rupture complexity and Earth heterogeneity
 * A simple 2D staggered grid elastic code based on a Fortran implementation
 * Simplest tomographic inversion using linear algebra (Matlab codes exist)
 
+## Useful Information on git/GitHub/Jupyter
 
-
-
+Basic information on git/Jupyter usage can be found in this Jupyter Notebook:
+ * https://github.com/krischer/2014_AdvancedSeismologySeminar/blob/master/Introduction%20-%20Git/git_and_python_intro.ipynb
 
