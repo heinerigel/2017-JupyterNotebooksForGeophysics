@@ -52,4 +52,8 @@ $ conda install -c conda-forge jupyter_contrib_nbextensions
 ```
 ... and then [follow along with any further configuration needed](conda install -c conda-forge jupyter_contrib_nbextensions ).
 
+It might also be useful to use the [notebook extension configurator plugin](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator/blob/master/README.md), which can also be installed using `conda`:
 
+```bash
+$ conda install -c conda-forge jupyter_nbextensions_configurator
+```
