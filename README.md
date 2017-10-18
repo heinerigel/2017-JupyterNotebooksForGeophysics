@@ -39,7 +39,10 @@ Part 2: Analyzing the effects of rupture complexity and Earth heterogeneity
 * A simple 2D staggered grid elastic code based on a Fortran implementation
 * Simplest tomographic inversion using linear algebra (Matlab codes exist)
 
+## Additional Info on Jupyter Notebook
 
-
+Useful Jupyter Notebook extensions and how to install/use them can be found here:
+ * http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
+ * http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html
 
 
