@@ -45,4 +45,11 @@ Useful Jupyter Notebook extensions and how to install/use them can be found here
  * http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
  * http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html
 
+If you're using Anaconda for Jupyter, [just install the extensions using `conda` by doing](https://anaconda.org/conda-forge/jupyter_contrib_nbextensions)...
+
+```bash
+$ conda install -c conda-forge jupyter_contrib_nbextensions
+```
+... and then [follow along with any further configuration needed](conda install -c conda-forge jupyter_contrib_nbextensions ).
+
 
