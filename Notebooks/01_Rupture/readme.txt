@@ -1,0 +1,1 @@
+This is the project folder for Mitch, in cooperation with Kenneth
