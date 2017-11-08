@@ -46,7 +46,7 @@ Part 2: Analyzing the effects of rupture complexity and Earth heterogeneity
 <<<<<<< HEAD
 * Sumatra earthquake, practicals by C. Tape (Angel, Glory, Tomy, Yongki)
 =======
-* Sumatra earthquake, practicals by C. Tape (Angel, Glory, Tomy)
+* Sumatra earthquake, practicals by C. Tape (Angel, Tomy, Yongki)
 >>>>>>> fc549daf0db0d62aef402fee19f8e65da3bb6838
 * Finite-difference method, summation by parts (Kenneth)
 
