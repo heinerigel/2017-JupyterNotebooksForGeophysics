@@ -43,7 +43,7 @@ Part 2: Analyzing the effects of rupture complexity and Earth heterogeneity
 * Dynamic rupture in 2D (Mitch)
 * Seismic Tomograpgy (Ashim)
 * Earthquake location, probabilistic inversion (Kilian)
-* Sumatra earthquake, practicals by C. Tape (Angel, Glory, Tomy, Yongki)
+* Sumatra earthquake, practicals by C. Tape (Angel, Glory, Tomy)
 * Finite-difference method, summation by parts (Kenneth)
 
 
