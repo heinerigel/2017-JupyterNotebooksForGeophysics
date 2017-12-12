@@ -15,8 +15,9 @@ tbd
 
 | Date  |   Topic |  Presenters |   Misc |  
 |---|---|---|---|
-| Oct  18, 10:15 C107|  GitHub |  T. Megies | Introduction, Applications |
-| Nov  15, 10:15 C107 |   Progress report | All |  |
+| Oct 18, 10:15 C107|  GitHub |  T. Megies | Introduction, Applications |
+| Nov 15, 10:15 C107 |   Progress report | All |  |
+| Dec 20, 10:15 C107 |  Gessele - Probabilistic inversion, Progress discussion | | 
 
 
 ## Potential topics
