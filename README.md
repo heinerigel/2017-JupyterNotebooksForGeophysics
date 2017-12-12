@@ -17,7 +17,7 @@ tbd
 |---|---|---|---|
 | Oct 18, 10:15 C107|  GitHub |  T. Megies | Introduction, Applications |
 | Nov 15, 10:15 C107 |   Progress report | All |  |
-| Dec 20, 10:15 C107 |  Probabilistic inversion, Progress discussion | Gessele | 
+| Dec 20, 10:15 C107 |  Probabilistic inversion  | Gessele | Progress discussion <
 
 
 ## Potential topics
