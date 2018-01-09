@@ -19,9 +19,9 @@ tbd
 | Nov 15, 10:15 C107 |   Progress report | All |  |
 | Dec 20, 10:15 C107 |  Probabilistic inversion  | Gessele | Progress discussion |
 | Jan 10, 10:15 C107 |  Sumatra Part 1   | Tomi | Progress discussion |
-| Jan 17, 10:15 C107 |  Sumatra Part 2   | Angel & Yongki | Progress discussion |
-| Jan 24, 10:15 C107 |  Seismic tomography   | Ashim | Progress discussion |
-| Jan 31, 10:15 C107 |  Rupture in 2D   | Mitch | Final discussion |
+| Jan 17, 10:15 C107 |  Seismic tomography   | Ashim | Progress discussion |
+| Jan 24, 10:15 C107 |  Rupture in 2D   | Mitch | Final discussion |
+| Jan 31, 10:15 C107 |  Sumatra Part 2   | Angel & Yongki | Progress discussion |
 
 ## Potential topics
 
