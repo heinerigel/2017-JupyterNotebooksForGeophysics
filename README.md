@@ -15,9 +15,13 @@ tbd
 
 | Date  |   Topic |  Presenters |   Misc |  
 |---|---|---|---|
-| Oct  18, 10:15 C107|  GitHub |  T. Megies | Introduction, Applications |
-| Nov  15, 10:15 C107 |   Progress report | All |  |
-
+| Oct 18, 10:15 C107|  GitHub |  T. Megies | Introduction, Applications |
+| Nov 15, 10:15 C107 |   Progress report | All |  |
+| Dec 20, 10:15 C107 |  Probabilistic inversion  | Gessele | Progress discussion |
+| Jan 10, 10:15 C107 |  Sumatra Part 1   | Tomi | Progress discussion |
+| Jan 17, 10:15 C107 |  Seismic tomography   | Ashim | Progress discussion |
+| Jan 24, 10:15 C107 |  Rupture in 2D   | Mitch | Final discussion |
+| Jan 31, 10:15 C107 |  Sumatra Part 2   | Angel & Yongki | Progress discussion |
 
 ## Potential topics
 
@@ -43,7 +47,7 @@ Part 2: Analyzing the effects of rupture complexity and Earth heterogeneity
 * Dynamic rupture in 2D (Mitch)
 * Seismic Tomograpgy (Ashim)
 * Earthquake location, probabilistic inversion (Kilian)
-* Sumatra earthquake, practicals by C. Tape (Angel, Glory, Tomy, Yongki)
+* Sumatra earthquake, practicals by C. Tape (Angel, Tomy, Yongki)
 * Finite-difference method, summation by parts (Kenneth)
 
 
