@@ -41,7 +41,12 @@ Part 2: Analyzing the effects of rupture complexity and Earth heterogeneity
 * Probabilistic earthquake source location inversion based on existing matlab scripts
 * Review, update, understanding if existing notebook on homogenization by S. Singh, Y. Capdeville
 * A simple 2D staggered grid elastic code based on a Fortran implementation
-* Simplest tomographic inversion using linear algebra (Matlab codes exist
+
+* Simplest tomographic inversion using linear algebra (Matlab codes exist)
+* 1D and 2D SBP finite difference approximations for the elastic wave equation
+* Simple 1D and 2D SBP finite difference implementation of dynamic ruputre simulations. 
+  (You will build upon an existing finite difference notebooks)
+
 
 ## Final Project Allocation
 * Dynamic rupture in 2D (Mitch)
@@ -49,6 +54,7 @@ Part 2: Analyzing the effects of rupture complexity and Earth heterogeneity
 * Earthquake location, probabilistic inversion (Kilian)
 * Sumatra earthquake, practicals by C. Tape (Angel, Tomy, Yongki)
 * Finite-difference method, summation by parts (Kenneth)
+
 
 
 
