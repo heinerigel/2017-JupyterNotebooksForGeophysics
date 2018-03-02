@@ -23,7 +23,7 @@ tbd
 | Jan 24, 10:15 C107 |  Rupture in 2D   | Mitch | Final discussion |
 | Jan 31, 10:15 C107 |  Sumatra Part 2   | Angel & Yongki | Progress discussion |
 |   |     |  |  |
-| Mar 13, 10:15 C407 |  Wrap up/Conclusion   | All | |
+| April 25, 10:15 C407 |  Wrap up/Conclusion   | All | |
 
 ## Potential topics
 
