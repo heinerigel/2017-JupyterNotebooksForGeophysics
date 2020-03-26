@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/jupyterlab/master?urlpath=lab/tree/index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/2017-JupyterNotebooksForGeophysics/master)
 
 # 2017-JupyterNotebooksForGeophysics
 MSc Geophysics Seminar on developing Jupyter Notebooks for Geophysics 
