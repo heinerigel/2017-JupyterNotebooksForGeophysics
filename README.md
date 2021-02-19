@@ -60,7 +60,21 @@ Part 2: Analyzing the effects of rupture complexity and Earth heterogeneity
 * Finite-difference method, summation by parts (Kenneth)
 
 
+## Additional Info on Jupyter Notebook
 
+Useful Jupyter Notebook extensions and how to install/use them can be found here:
+ * http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
+ * http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html
 
+If you're using Anaconda for Jupyter, [just install the extensions using `conda` by doing](https://anaconda.org/conda-forge/jupyter_contrib_nbextensions)...
 
+```bash
+$ conda install -c conda-forge jupyter_contrib_nbextensions
+```
+... and then [follow along with any further configuration needed](conda install -c conda-forge jupyter_contrib_nbextensions ).
 
+It might also be useful to use the [notebook extension configurator plugin](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator/blob/master/README.md), which can also be installed using `conda`:
+
+```bash
+$ conda install -c conda-forge jupyter_nbextensions_configurator
+```
